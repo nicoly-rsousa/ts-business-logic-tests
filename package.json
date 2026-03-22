@@ -6,9 +6,7 @@
     "dev:cenario01": "tsx watch cenario01-pizzaria/index.ts",
     "dev:cenario02": "tsx watch cenario02-hotel/index.ts",
     "dev:cenario03": "tsx watch cenario03-notas/index.ts",
-    "gabarito:cenario01": "tsx cenario01-pizzaria/gabarito.ts",
-    "gabarito:cenario02": "tsx cenario02-hotel/gabarito.ts",
-    "gabarito:cenario03": "tsx cenario03-notas/gabarito.ts",
+    "dev:cenario04": "tsx watch cenario04-gorjeta-FINALIZADO/index.ts",
     "corrigir": "tsx corrigir.ts"
   },
   "keywords": [],
